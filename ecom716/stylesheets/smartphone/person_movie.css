@@ -121,7 +121,7 @@
 	margin-bottom: 5px;
 }
 
-#p-movie dd:nth-child(5){
+#p-movie dd:last-of-type{
 	width: 90px;
 	position:absolute;
 	left:0px;
